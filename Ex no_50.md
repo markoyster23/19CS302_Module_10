@@ -86,6 +86,9 @@ int main() {
 ```
 
 ## Output:
+List: 10 20 30 
+Deleted node with data: 10
+List: 20 30 
 
 
 
